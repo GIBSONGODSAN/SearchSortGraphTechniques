@@ -1,7 +1,5 @@
-
 # SearchSortGraphTechniques
-
-##You could find some Search and Sort Techniques with Graph Algorithms
+## You could find some Search and Sort Techniques with Graph Algorithms
 
 Linear Search: A simple search algorithm that iterates through a list of items in a linear manner until the target item is found or the end of the list is reached. It has a time complexity of O(n) where n is the number of items in the list.
 
